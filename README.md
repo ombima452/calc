@@ -5,7 +5,9 @@
 This a calculator that calculates basic arithmetic fuctions they include addition,subtraction,multiplication and division 
 ## Setup/Installation Requirements
 Open Terminal {Ctrl+Alt+T}
-git clone https://github.com/ombima452/calc.git 
+
+git clone https://github.com/ombima452/calc.git
+
 code . or atom . based on the text editor you have.
 
 ## Known Bugs
